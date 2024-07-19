@@ -8,7 +8,8 @@ for staring this app few steps should be followed:
 
 step1-> flutter sdk is to be installed
 Step 2-> to run this code locate to main folder......run this command in terminal 'cd .\chatbot\' 
-Step 3-> run 'flutter run -d chrome' to start the app
+step 3-> run 'flutter pub get'
+Step 4-> run 'flutter run -d chrome' to start the app
 
 This project is a starting point for a Flutter application.
 
